@@ -1,0 +1,3 @@
+base_url: 'https://newsapi.org/v2/top-headlines'
+sources: 'google-news'
+apiKey: '0a708bae59cd4f92b26a6bc4c114f1f0'
